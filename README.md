@@ -79,4 +79,4 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 5. Abre un Pull Request
 
    
-Desarrollado por [Sergi-03](ssegarragarcia@gmail.com)
+Desarrollado por [Sergi-03](mailto:ssegarragarcia@gmail.com)
