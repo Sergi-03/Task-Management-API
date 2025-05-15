@@ -60,7 +60,7 @@ Este proyecto es una API básica para la gestión de tareas personales. Desarrol
 
 La API utiliza PostgreSQL como base de datos, desplegada en Supabase. El esquema incluye:
 
-- **Task**: Almacena las tareas con propiedades como título, descripción, estado, etc.
+**Task**: Almacena las tareas con propiedades como título, descripción, estado, etc.
 
 La estructura de la base de datos está definida usando el schema de Prisma.
 
