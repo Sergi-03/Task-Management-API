@@ -1,0 +1,16 @@
+###Get tasks
+GET http://localhost:1234/api/tasks/
+
+###Create task
+POST http://localhost:1234/api/tasks
+Content-Type: application/json
+
+###Get task by id
+GET http://localhost:1234/api/tasks/1
+
+###Update a task partially
+PATCH http://localhost:1234/api/tasks/2
+Content-Type: application/json
+
+###Delete task
+DELETE http://localhost:1234/api/tasks/2
