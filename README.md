@@ -11,6 +11,7 @@ Este proyecto es una API básica para la gestión de tareas personales. Desarrol
 - **Backend**: Node.js, Express.js
 - **Base de datos**: PostgreSQL (desplegada en Supabase)
 - **ORM**: Prisma
+- **Validación**: Zod para validación de esquemas y datos
 - **Otros**: Dotenv para variables de entorno
 
 ## Características
@@ -18,6 +19,7 @@ Este proyecto es una API básica para la gestión de tareas personales. Desarrol
 - **CRUD de tareas**: Crear, leer, actualizar y eliminar tareas
 - **Interacción con DB**: Uso de Prisma para operaciones de base de datos
 - **Estructura REST**: API organizada siguiendo principios REST
+- **Validación robusta**: Implementación de Zod para validación de esquemas y datos de entrada
 
 ## Endpoints
 
