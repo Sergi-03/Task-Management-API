@@ -2,24 +2,24 @@
 
 Una API REST simple para gestión de tareas construida con Express.js, Prisma ORM y PostgreSQL.
 
-## 🔍 Descripción
+## Descripción
 
 Este proyecto es una API básica para la gestión de tareas personales. Desarrollada con Node.js y Express, utiliza Prisma como ORM para interactuar con una base de datos PostgreSQL desplegada en Supabase.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Backend**: Node.js, Express.js
 - **Base de datos**: PostgreSQL (desplegada en Supabase)
 - **ORM**: Prisma
 - **Otros**: Dotenv para variables de entorno
 
-## ✨ Características
+## Características
 
 - **CRUD de tareas**: Crear, leer, actualizar y eliminar tareas
 - **Interacción con DB**: Uso de Prisma para operaciones de base de datos
 - **Estructura REST**: API organizada siguiendo principios REST
 
-## 📋 Endpoints
+## Endpoints
 
 ### Tareas
 
@@ -29,7 +29,7 @@ Este proyecto es una API básica para la gestión de tareas personales. Desarrol
 - `PUT /api/tasks/:id` - Actualizar una tarea existente
 - `DELETE /api/tasks/:id` - Eliminar una tarea
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 1. **Clonar el repositorio**
    ```bash
@@ -56,7 +56,7 @@ Este proyecto es una API básica para la gestión de tareas personales. Desarrol
    ```
 
 
-## 📝 Base de Datos
+## Base de Datos
 
 La API utiliza PostgreSQL como base de datos, desplegada en Supabase. El esquema incluye:
 
@@ -64,11 +64,11 @@ La API utiliza PostgreSQL como base de datos, desplegada en Supabase. El esquema
 
 La estructura de la base de datos está definida usando el schema de Prisma.
 
-## 🔄 Deploy
+## Deploy
 
 La base de datos PostgreSQL está desplegada en Supabase, proporcionando un entorno robusto para la aplicación.
 
-## 🤝 Contribuciones
+## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 
