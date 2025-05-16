@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon express.js"
+    "start": "node express.js",
+    "dev": "nodemon express.js",
+    "build": "npx prisma generate"
   },
   "keywords": [],
   "author": "",
