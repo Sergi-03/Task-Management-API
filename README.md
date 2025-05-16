@@ -66,6 +66,10 @@ La API utiliza PostgreSQL como base de datos, desplegada en Supabase. El esquema
 
 La estructura de la base de datos está definida usando el schema de Prisma.
 
+## Vista de la base de datos en Supabase
+
+![supabase-table png](https://github.com/user-attachments/assets/c3c6ae24-8ee1-4f51-a8bd-6ac828bd2daf)
+
 ## Deploy
 
 La base de datos PostgreSQL está desplegada en Supabase, proporcionando un entorno robusto para la aplicación.
