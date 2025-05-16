@@ -28,7 +28,7 @@ Este proyecto es una API básica para la gestión de tareas personales. Desarrol
 - `GET /api/tasks` - Obtener todas las tareas
 - `GET /api/tasks/:id` - Obtener una tarea específica
 - `POST /api/tasks` - Crear una nueva tarea
-- `PUT /api/tasks/:id` - Actualizar una tarea existente
+- `PATCH /api/tasks/:id` - Actualizar una tarea existente
 - `DELETE /api/tasks/:id` - Eliminar una tarea
 
 ## Instalación y Uso
@@ -49,7 +49,7 @@ Este proyecto es una API básica para la gestión de tareas personales. Desarrol
    Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
    ```
    PORT=3000
-   DATABASE_URL="postgresql://usuario:contraseña@host:puerto/nombre_db"
+   DATABASE_URL="postgresql://<usuario>:<contraseña>@db.<project-ref>.supabase.co:5432/postgres"
    ```
 
 4. **Iniciar el servidor**
