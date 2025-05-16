@@ -68,7 +68,8 @@ La estructura de la base de datos está definida usando el schema de Prisma.
 
 ## Vista de la base de datos en Supabase
 
-![supabase-table png](https://github.com/user-attachments/assets/c3c6ae24-8ee1-4f51-a8bd-6ac828bd2daf)
+![supabase-table png](https://github.com/user-attachments/assets/4954f9fc-9853-478b-bd65-8ad766b653d4)
+
 
 ## Deploy
 
